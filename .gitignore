@@ -76,5 +76,4 @@ MinesweeperTool/Plugins/**/Intermediate/*
 MinesweeperTool/DerivedDataCache/*
 
 MinesweeperTool/.idea/*
-MinesweeperTool/
 *.uproject
