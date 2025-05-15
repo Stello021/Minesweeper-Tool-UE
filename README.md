@@ -34,8 +34,6 @@ click "Yes"
     - `SMinesweeperButton` represents each cell in the grid and defines its behavior when clicked or revealed.
     - The button changes appearance based on its state (e.g., mine, neighbor count).
 
-[Registrazione 2025-05-15 154555.mp4](Resorces/Registrazione%202025-05-15%20154555.mp4)
-
 ## AI Usage
 As my first experiment using Unreal Engine's Slate framework, 
 I utilized Claude AI to provide practical examples, 
